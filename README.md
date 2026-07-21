@@ -1,8 +1,8 @@
-# BMI Calculator 📊
+# BMI Calculator
 
 A clean and responsive BMI Calculator built with Flutter. The app supports multiple measurement units, reusable UI components, and a layered architecture that separates presentation, domain logic, and theming for better maintainability and scalability.
 
-## Features ✨
+## Features
 
 * Calculate Body Mass Index (BMI)
 * Support for metric and imperial units
@@ -25,7 +25,7 @@ lib/
 └── theme/
 ```
 
-## Architecture 🏗️
+## Architecture 
 
 The project follows a layered architecture:
 
@@ -35,39 +35,8 @@ The project follows a layered architecture:
 
 This separation improves code readability, maintainability, and testability.
 
-## Getting Started 🚀
-
-### Prerequisites
-
-* Flutter SDK
-* Dart SDK
-* Android Studio / VS Code
-
-### Installation
-
-```bash
-git clone https://github.com/your-username/bmi-calculator.git
-cd bmi-calculator
-flutter pub get
-flutter run
-```
-
-## Built With 🛠️
-
-* Flutter
-* Dart
-
-## Future Improvements 🔮
-
-* State management (Riverpod/Bloc)
-* Unit tests
-* BMI history tracking
-* Health recommendations
-* Dark mode support
-
-## Screenshots 📸
-
-*Add screenshots here.*
+<img width="1220" height="2712" alt="bmi_app_light" src="https://github.com/user-attachments/assets/7569d58c-7f39-4466-b963-a29d4c9a16da" />
+<img width="1220" height="2712" alt="bmi_app_dark" src="https://github.com/user-attachments/assets/0b7bd465-f435-481c-a684-74b245267308" />
 
 ## License 📄
 
