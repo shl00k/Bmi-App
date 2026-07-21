@@ -38,10 +38,10 @@ This separation improves code readability, maintainability, and testability.
 <table>
   <tr>
     <td align="center">
-      <img width="250" alt="bmi_app_dark" src="https://github.com/user-attachments/assets/7569d58c-7f39-4466-b963-a29d4c9a16da](https://github.com/shl00k/Bmi-App/edit/main/assets/screenshots/bmi_app_dark.jpg" />
+      <img width="250" alt="bmi_app_dark" src="assets/screenshots/bmi_app_dark.jpg" />
     </td>
     <td align="center">
-      <img width="250" alt="bmi_app_light" src="https://github.com/user-attachments/assets/7569d58c-7f39-4466-b963-a29d4c9a16da](https://github.com/shl00k/Bmi-App/edit/main/assets/screenshots/bmi_app_light.jpg" />
+      <img width="250" alt="bmi_app_light" src="assets/screenshots/bmi_app_light.jpg" />
     </td>
   </tr>
 </table>
